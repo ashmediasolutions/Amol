@@ -273,7 +273,7 @@ img {
 
 /*** back to top **/
 .back-to-top {
-  background-color: rgba(253, 201, 0, 0.9);
+  background-color: rgba(247, 147, 30, 1);
   width: 45px;
   height: 45px;
   line-height: 45px;
@@ -4544,7 +4544,7 @@ img {
   background-color: rgba(33, 61, 118, 1);
   width: 95%;
   height: 92%;
-  border: 2px solid #fdc900;
+  border: 2px solid #f7931e;
   position: absolute;
   left: -10%;
   top: 4%;
